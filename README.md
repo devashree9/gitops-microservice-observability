@@ -127,3 +127,7 @@ pytest -v
 FastAPI - Redis - Docker - Docker Compose - GitHub Actions - Prometheus - Grafana - pytest
 
 <img width="725" height="476" alt="Screenshot 2026-09-28 234024" src="https://github.com/user-attachments/assets/4dd477c6-f4b9-4b91-950b-9853ff33a0d4" />
+
+<img width="724" height="476" alt="Screenshot 2026-09-28 233959" src="https://github.com/user-attachments/assets/89c2d8c9-db3a-4bc5-9a37-ef8fe37f7916" />
+
+<img width="721" height="470" alt="Screenshot 2026-09-28 233939" src="https://github.com/user-attachments/assets/5ee899ce-8ecc-47e7-bb48-b710d0fb5447" />
