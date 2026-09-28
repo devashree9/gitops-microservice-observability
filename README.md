@@ -125,3 +125,5 @@ pytest -v
 ## Stack
 
 FastAPI - Redis - Docker - Docker Compose - GitHub Actions - Prometheus - Grafana - pytest
+
+<img width="725" height="476" alt="Screenshot 2026-09-28 234024" src="https://github.com/user-attachments/assets/4dd477c6-f4b9-4b91-950b-9853ff33a0d4" />
